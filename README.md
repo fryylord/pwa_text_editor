@@ -1,6 +1,8 @@
 # pwa_text_editor
 # Solution for Module 19 Challenge
-  
+
+A basic text editor application with additional functionality for it to work as a PWA and function offline.
+
 [Link to Live Site](https://blooming-basin-49312.herokuapp.com/)  
 [Link to GitHub Repo](https://github.com/fryylord/pwa_text_editor/)    
 
@@ -12,10 +14,12 @@
 - [Tests](#tests)
 
 ## Installation
+After cloning the repo, run `npm install` to install the dependencies.
 
+After that, run `npm run start:dev` to finalize the installation and start the server.
 
 ## Usage
-
+Following the initial installation, the application can be used by opening the browser and navigating to `localhost:3000`.  Subsequent uses can be made by navigating to the same address, after running `npm run start` in the terminal to boot up the server.
 
 ## Credits
 
